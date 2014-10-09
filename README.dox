@@ -1,0 +1,50 @@
+/**
+@mainpage ProgArgs2
+ 
+@section progargs_section The ProgArgs2 Program
+ 
+@author Mark Royer
+
+You may use this README as a template for your assignments.
+
+This program demonstrates a few ways to handle input/output and string parsing.
+
+@section building_section Building
+
+To build the program type <b>make</b> at the terminal. This will produce the 
+executable <b>stdinExample</b>.
+
+@section running_section Running The Program
+
+You can run the program by typing <b>./stdinExample</b> as shown bellow.
+
+@verbatim
+./stdinExample 
+Please enter your name: man
+OK; I'll call you man.
+Please pick a number between 1 and 10 man. (Don't pick 8)
+5
+You guessed 5, which is wrong man.  Guess again...
+3
+You guessed 3, which is wrong man.  Guess again...
+10
+You guessed 10, which is wrong man.  Guess again...
+8
+The correct answer was 8. You got it!
+@endverbatim
+
+@section add_resources_section Additional Resources
+
+Documentation of Doxygen can be found at the <a href="http://www.stack.nl/~dimitri/doxygen/">Doxygen website</a>.
+
+Makefile documentation can be found at the <a href="http://www.gnu.org/software/make/manual/make.html">GNU website</a>.
+
+A nice example using Doxygen commenting is a the <a href="https://www.cs.cmu.edu/~410/doc/doxygen.html">Carnegie Mellon website</a>. 
+
+@section questions_section Questions
+
+If you have questions, email me or post to <a href="https://www.courses.maine.edu">Blackboard</a>.
+
+mroyer@cs.umaine.edu
+
+*/
